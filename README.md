@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I'm Danila
 
-<!--
-**smthinthewayy/smthinthewayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=smthinthewayy&style=for-the-badge&color=blue)
 
-Here are some ideas to get you started:
+### About me
+- 👨‍🎓 I'm a first year student
+- 💪 I like to write code
+- 💻 I study at [school 21](https://21-school.ru/)
+- ⚡ I like to skateboard and play basketball
+- 🥅 I'm constantly learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smthinthewayy)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smthinthewayy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smthinthewayy&layout=compact)
+
+### Contacts
+
+- ✈️ Telegram: [@smthinthewwayy](https://t.me/smthinthewayy)
+- ✉ Email: smthinthewayy@gmail.com
