@@ -13,8 +13,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smthinthewayy)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smthinthewayy)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smthinthewayy&layout=compact)
 
 ### Contacts
