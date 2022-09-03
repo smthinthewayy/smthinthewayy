@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=smthinthewayy&style=for-the-badge&color=blue)
 
 ### About me
-- 👨‍🎓 I'm a first year student
+- 👨‍🎓 I'm a second year student
 - 💪 I like to write code
 - 💻 I study at [school 21](https://21-school.ru/)
 - ⚡ I like to skateboard and play basketball
