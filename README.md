@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Danila Belyi</h1>
+
 <h3 align="center">A passionate IOS developer from Russia</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=smthinthewayy&label=Profile%20views&color=0e75b6&style=flat" alt="smthinthewayy" /> </p>
+<p align="center">
+  <img src="sp.png"  width="400" />
+</p>
 
 - 🔭 I’m currently working on [Algorithms Roadmap](https://github.com/smthinthewayy/Algorithms-Roadmap)
 
