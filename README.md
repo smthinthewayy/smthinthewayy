@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Danila Belyi</h1>
-
-<h3 align="center">A passionate IOS developer from Russia</h3>
-
 <p align="center">
-  <img src="sp.png"  width="400" />
+  <img src="img/wp.png"/>
 </p>
 
 - 🔭 I’m currently working on [Algorithms Roadmap](https://github.com/smthinthewayy/Algorithms-Roadmap)
