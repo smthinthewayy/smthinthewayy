@@ -2,7 +2,7 @@
   <img src="img/wp.png"/>
 </p>
 
-- 🔭 I’m currently working on [Algorithms Roadmap](https://github.com/smthinthewayy/Algorithms-Roadmap)
+- 🔭 I’m currently working on [Stoks](https://github.com/smthinthewayy/Stocks)
 
 - 🌱 I’m currently learning **SwiftUI, UIKit, Combine, RXSwift, REST, MVVM, Viper**
 
