@@ -2,7 +2,7 @@
   <img src="img/wp.png"/>
 </p>
 
-- 🔭 I’m currently working on [Stocks](https://github.com/smthinthewayy/Stocks)
+- 🔭 I’m currently working on [Stocks](https://github.com/smthinthewayy/GitHub-Followers)
 
 - 🌱 I’m currently learning **SwiftUI, UIKit, Combine, RXSwift, REST, MVVM, Viper**
 
